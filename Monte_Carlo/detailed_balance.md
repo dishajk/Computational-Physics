@@ -20,3 +20,5 @@ c
 |---|---|---|
 | | |o|
 | | | |
+
+\pi_a is the probability of the state of the system being in a
